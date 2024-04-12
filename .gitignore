@@ -13,7 +13,7 @@ target
 a.out 
 .gitconfig
 cobertura.xml
-tags
+
 *.orig
 .direnv
 
